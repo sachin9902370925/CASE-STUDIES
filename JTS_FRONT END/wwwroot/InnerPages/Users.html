@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>JobTrackingSystem</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="../css/site.css" />
+</head>
+<body>
+    <div class="jumbotron">
+        <h1 class="text-center">J T S</h1>
+        <!--<form action="javascript:void(0);" method="POST" onsubmit="addUser()">
+        <input type="text" id="add-name" placeholder="New to-do">
+        <input type="submit" value="Add">
+        </form>-->
+
+        <button class="bg-dark text-white" onclick="displayAddUserForm();"> Add New User</button>
+        <br /><br />
+        <div id="EditUser" style="display:none">
+        <h3>Edit</h3>
+        <form action="javascript:void(0);" onsubmit="updateUser()" id="EditUserForm" name="EditUserForm">
+            <input disabled required type="number" placeholder="ID" id="editUser-ID" name="editUser-ID">
+            <input required type="text" placeholder="Username" id="editUser-username" name="editUser-username">
+            <input required type="email" placeholder="Email" id="editUser-email" name="editUser-email">
+            <input required type="text" placeholder="First Name" id="editUser-firstName" name="editUser-firstName">
+            <input type="text" placeholder="Last Name" id="editUser-lastName" name="editUser-lastName">
+            <input required type="text" placeholder="Phone" id="editUser-contactNumber" name="editUser-contactNumber">
+            <select required id="editUser-role" name="editUser-role">
+                <option value=0>Admin</option>
+                <option value=1>Task Owner</option>
+            </select>
+            <input type="checkbox" placeholder="isActive" id="editUser-isActive" name="editUser-isActive">
+            <input required type="datetime-local" placeholder="dob" id="editUser-dob" name="editUser-dob">
+            <input required type="datetime-local" placeholder="CreatedOn" id="editUser-createdOn" name="editUser-createdOn">
+            <input type="submit" value="Update User" />
+            <a onclick="closeInput()" aria-label="Close">&#10006;</a>
+        </form>
+        </div>
+        <div id="AddUser" style="display:none">
+            <h3>Add</h3>
+            <form action="javascript:void(0);" onsubmit="AddUser()" id="AddUserForm">
+                <input required type="number" placeholder="ID" id="ID" name="id">
+                <input required type="text" placeholder="Username" id="username" name="username">
+                <input required type="email" placeholder="Email" id="email" name="email">
+                <input required type="text" placeholder="First Name" id="firstName" name="firstName">
+                <input type="text" placeholder="Last Name" id="lastName" name="lastName">
+                <input required type="text" placeholder="Phone" id="contactNumber" name="contactNumber">
+                <select required id="role" name="role">
+                    <option value=0>Admin</option>
+                    <option value=1>Task Owner</option>
+                </select>
+                <input required type="checkbox" placeholder="isActive" id="isActive" name="isActive">
+                <input required type="datetime-local" placeholder="dob" id="dob" name="dob">
+                <input required type="datetime-local" placeholder="CreatedOn" id="createdOn" name="createdOn">
+                <input type="submit" value="Add User" />
+                <a onclick="closeInput()" aria-label="Close">&#10006;</a>
+            </form>
+        </div>
+
+        <h5 class="text-center" id="counter"></h5>
+
+        <table class="table-striped">
+            <tr>
+                <th>ID</th>
+                <th>Username</th>
+                <th>Role</th>
+                <th>DOB</th>
+                <th>Firstname</th>
+                <th>Lastname</th>
+                <th>Contact Number</th>
+                <th>Email</th>
+                <th>Created On</th>
+                <th>IsActive</th>
+
+
+
+            </tr>
+            <tbody id="users"></tbody>
+        </table>
+
+        <script src="../js/site.js" asp-append-version="true"></script>
+        <script type="text/javascript">
+            getUsers();
+        </script>
+        <br /><br />
+        <div>
+            <a href="../index.html">Back to Main Page</a>
+        </div>
+    </div>
+</body>
+</html>

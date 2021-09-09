@@ -1,0 +1,40 @@
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\appsettings.Development.json
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\appsettings.json
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\front end.exe
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\front end.deps.json
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\front end.runtimeconfig.json
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\front end.runtimeconfig.dev.json
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\front end.dll
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\ref\front end.dll
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\front end.pdb
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\front end.Views.dll
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\front end.Views.pdb
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.csproj.AssemblyReference.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.AssemblyInfoInputs.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.AssemblyInfo.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.csproj.CoreCompileInputs.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.MvcApplicationPartsAssemblyInfo.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.RazorAssemblyInfo.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.RazorAssemblyInfo.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\staticwebassets\front end.StaticWebAssets.Manifest.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\staticwebassets\front end.StaticWebAssets.xml
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\scopedcss\bundle\front end.styles.css
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.TagHelpers.input.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.TagHelpers.output.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.RazorCoreGenerate.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.RazorTargetAssemblyInfo.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.RazorTargetAssemblyInfo.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.Views.pdb
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.dll
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\ref\front end.dll
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.pdb
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.genruntimeconfig.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\front end.csproj.CopyComplete

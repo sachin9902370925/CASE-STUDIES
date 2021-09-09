@@ -1,0 +1,120 @@
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\appsettings.Development.json
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\appsettings.json
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.exe
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.deps.json
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.runtimeconfig.json
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.runtimeconfig.dev.json
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.dll
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\ref\JobTrackingSystem_FrontEnd.dll
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.pdb
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.Views.dll
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.Views.pdb
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.csproj.AssemblyReference.cache
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.AssemblyInfoInputs.cache
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.AssemblyInfo.cs
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.csproj.CoreCompileInputs.cache
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorAssemblyInfo.cache
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorAssemblyInfo.cs
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\staticwebassets\JobTrackingSystem_FrontEnd.StaticWebAssets.Manifest.cache
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\staticwebassets\JobTrackingSystem_FrontEnd.StaticWebAssets.xml
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\scopedcss\bundle\JobTrackingSystem_FrontEnd.styles.css
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.TagHelpers.input.cache
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.TagHelpers.output.cache
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorCoreGenerate.cache
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorTargetAssemblyInfo.cache
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorTargetAssemblyInfo.cs
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.Views.pdb
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.dll
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\ref\JobTrackingSystem_FrontEnd.dll
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.pdb
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.genruntimeconfig.cache
+D:\CaseStudy_Work\Solution\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.csproj.CopyComplete
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\appsettings.Development.json
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\appsettings.json
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.exe
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.deps.json
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.runtimeconfig.json
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.runtimeconfig.dev.json
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.dll
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\ref\JobTrackingSystem_FrontEnd.dll
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.pdb
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.Views.dll
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.Views.pdb
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.csproj.AssemblyReference.cache
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.AssemblyInfoInputs.cache
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.AssemblyInfo.cs
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.csproj.CoreCompileInputs.cache
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorAssemblyInfo.cache
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorAssemblyInfo.cs
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\staticwebassets\JobTrackingSystem_FrontEnd.StaticWebAssets.Manifest.cache
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\staticwebassets\JobTrackingSystem_FrontEnd.StaticWebAssets.xml
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\scopedcss\bundle\JobTrackingSystem_FrontEnd.styles.css
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.TagHelpers.input.cache
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.TagHelpers.output.cache
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorCoreGenerate.cache
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorTargetAssemblyInfo.cache
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorTargetAssemblyInfo.cs
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.Views.pdb
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.dll
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\ref\JobTrackingSystem_FrontEnd.dll
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.pdb
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.genruntimeconfig.cache
+D:\CaseStudy_Work\Sent to sachin\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.csproj.CopyComplete
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\appsettings.Development.json
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\appsettings.json
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.exe
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.deps.json
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.runtimeconfig.json
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.runtimeconfig.dev.json
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.dll
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\ref\JobTrackingSystem_FrontEnd.dll
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.pdb
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.Views.dll
+D:\project\JobTrackingSystem_FrontEnd\bin\Debug\net5.0\JobTrackingSystem_FrontEnd.Views.pdb
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.csproj.AssemblyReference.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.AssemblyInfoInputs.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.AssemblyInfo.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.csproj.CoreCompileInputs.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorAssemblyInfo.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorAssemblyInfo.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\staticwebassets\JobTrackingSystem_FrontEnd.StaticWebAssets.Manifest.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\staticwebassets\JobTrackingSystem_FrontEnd.StaticWebAssets.xml
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\scopedcss\bundle\JobTrackingSystem_FrontEnd.styles.css
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.TagHelpers.input.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.TagHelpers.output.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorCoreGenerate.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorTargetAssemblyInfo.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.RazorTargetAssemblyInfo.cs
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.Views.pdb
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.dll
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\ref\JobTrackingSystem_FrontEnd.dll
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.pdb
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.genruntimeconfig.cache
+D:\project\JobTrackingSystem_FrontEnd\obj\Debug\net5.0\JobTrackingSystem_FrontEnd.csproj.CopyComplete
